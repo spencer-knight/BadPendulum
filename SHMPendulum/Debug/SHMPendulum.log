@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Spencer\source\repos\SHMPendulum\SHMPendulum\main.cpp(6,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Spencer\source\repos\SHMPendulum\SHMPendulum\main.cpp(38,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Spencer\source\repos\SHMPendulum\SHMPendulum\main.cpp(54,58): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Spencer\source\repos\SHMPendulum\SHMPendulum\main.cpp(54,44): warning C4244: 'argument': conversion from 'T' to 'int32_t', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Spencer\source\repos\SHMPendulum\SHMPendulum\main.cpp(55,53): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+  SHMPendulum.vcxproj -> C:\Users\Spencer\source\repos\SHMPendulum\Debug\SHMPendulum.exe
